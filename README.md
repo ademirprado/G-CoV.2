@@ -1,3 +1,4 @@
+https://cpdm.ufpr.br/wp-content/uploads/2023/03/g-cov2.png
 # G-CoV.2
 Geolocation Corona Virus 2 Repository
 
