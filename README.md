@@ -2,7 +2,7 @@
 Geolocation Corona Virus 2 Repository
 
 # Health Institutionals
-Development a software for the geolocation of patients with COVID-19. The data are from examinations of patients treated at the Hospital de Clínicas of the Federal University of Paraná and Laboratório Municipal of the city Curitiba.
+Development a software for the geolocation of patients with COVID-19. The data are from examinations of patients treated at the Clinical Hospital of the Federal University of Paraná and Curitiba Municipal Laboratory.
 
 # Objective
 Develop a software to location of patients with COVID-19.
@@ -14,6 +14,7 @@ Develop a software to location of patients with COVID-19.
   <li>JavaScript</li>
   <li>PHP</li>
   <li>OpenStreetMap</li>
+  <li>Asynchronous JavaScript And XML</li>
   <li>MySQL</li>
 </ul>
 
