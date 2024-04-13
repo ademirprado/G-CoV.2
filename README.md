@@ -1,12 +1,12 @@
-https://cpdm.ufpr.br/wp-content/uploads/2023/03/g-cov2.png
+![G-CoV.2](https://cpdm.ufpr.br/wp-content/uploads/2023/03/g-cov2.png)
 # G-CoV.2
 Geolocation Corona Virus 2 Repository
 
-# Health Institutionals
-Development a software for the geolocation of patients with COVID-19. The data are from examinations of patients treated at the Clinical Hospital of the Federal University of Paraná and Curitiba Municipal Laboratory.
+# Health Institutions
+The data are from laboratory tests of the patients treated at the Clinical Hospital of the Federal University of Paraná and Curitiba Municipal Laboratory.
 
 # Objective
-Develop a software to location of patients with COVID-19.
+Developer a software for the geolocation of patients with COVID-19. 
 
 # Technologies:
 <ul>
