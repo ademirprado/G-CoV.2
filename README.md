@@ -7,6 +7,16 @@ Development a software for the geolocation of patients with COVID-19. The data a
 # Objective
 Develop a software to location of patients with COVID-19.
 
+# Technologies:
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>PHP</li>
+  <li>OpenStreetMap</li>
+  <li>MySQL</li>
+</ul>
+
 # Source Code
 [https://github.com/G-CoV.2/SourceCode](https://github.com/ademirprado/G-CoV.2/blob/main/SourceCode)
 
