@@ -8,7 +8,7 @@ The data are from laboratory tests of the patients treated at the Clinical Hospi
 # Objective
 Developer a software for the geolocation of patients with COVID-19. 
 
-# Technologies:
+# Technologies
 <ul>
   <li>HTML</li>
   <li>CSS</li>
