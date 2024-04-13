@@ -7,8 +7,11 @@ Development a software for the geolocation of patients with COVID-19. The data a
 # Objective
 Develop a software to location of patients with COVID-19.
 
-# Source Code and DataBase
-https://github.com/G-CoV.2/DataSet
+# Source Code
+https://github.com/G-CoV.2/SourceCode
+
+# DataBase
+https://github.com/G-CoV.2/DataBase
 
 # Research Institutions
 <ol>
