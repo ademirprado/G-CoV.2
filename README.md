@@ -1,6 +1,12 @@
-![G-CoV.2](https://cpdm.ufpr.br/wp-content/uploads/2023/03/g-cov2.png)
-# G-CoV.2
-Geolocation Corona Virus 2 Repository
+<p align="center">
+  <img width="460" height="120" src=https://latamt.ieeer9.org/public/journals/1/submission_8872_12431_coverImage_en_US.png>
+<br>
+<img width="200" height="150" src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Instituto_Federal_do_Paran%C3%A1_-_Marca_Vertical_2015.svg/279px-Instituto_Federal_do_Paran%C3%A1_-_Marca_Vertical_2015.svg.png>
+<img width="200" height="150" src=http://www.ufpr.br/portalufpr/wp-content/uploads/2015/11/ufpr_25.jpg>
+<p align="center"><h1>G-CoV.2: Geolocation Corona Virus 2</h1>
+<br>
+  <img width="150" height="150" src=https://cpdm.ufpr.br/wp-content/uploads/2023/03/g-cov2.png>
+</p>
 
 # Health Institutions
 The data are from laboratory tests of the patients treated at the Clinical Hospital of the Federal University of Paraná and Curitiba Municipal Laboratory.
