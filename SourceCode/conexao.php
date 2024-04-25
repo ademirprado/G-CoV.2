@@ -8,7 +8,7 @@
 	$servidor = "localhost";
 	$banco = "gcov2";
 	$usuario = "root";
-	$senha = "G-C0v.2024";
+	$senha = "";
 
 	//Criar a conexao
 	$conn = mysqli_connect($servidor, $usuario, $senha, $banco);
