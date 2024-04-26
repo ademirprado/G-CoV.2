@@ -4,7 +4,7 @@
   <img width="200" height="150" src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Instituto_Federal_do_Paran%C3%A1_-_Marca_Vertical_2015.svg/279px-Instituto_Federal_do_Paran%C3%A1_-_Marca_Vertical_2015.svg.png>
   <img width="200" height="150" src=http://www.ufpr.br/portalufpr/wp-content/uploads/2015/11/ufpr_25.jpg>
   <br>
-<h1>G-CoV.2: Geolocation Corona Virus 2</h1>
+<h1>G-CoV.2: Geolocation CoronaVirus 2</h1>
 <br>
   A system named G-CoV.2 (Geolocation for CoVid 2) was developed to identify positive patients in a specific city region.
   <img width="150" height="150" src=https://cpdm.ufpr.br/wp-content/uploads/2023/03/g-cov2.png>
@@ -15,16 +15,16 @@ https://cpdm.ufpr.br/g-cov-2/
 The data are from laboratory tests of the patients treated at the Clinical Hospital of the Federal University of Paraná and Curitiba Municipal Laboratory.
 
 # Objective
-Developer a software for the geolocation of patients with COVID-19. 
+Developer a software for the geolocation of patients with COVID-19 and other pathologies. 
 
 # Technologies
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
+  <li>HyperText Markup Language (HTML)</li>
+  <li>Cascading Style Sheets (CSS)</li>
   <li>JavaScript</li>
   <li>PHP</li>
   <li>OpenStreetMap</li>
-  <li>Asynchronous JavaScript And XML</li>
+  <li>Asynchronous JavaScript And XML (AJAX)</li>
   <li>MySQL</li>
 </ul>
 
