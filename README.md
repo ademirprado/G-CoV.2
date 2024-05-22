@@ -4,19 +4,19 @@
   <img width="200" height="150" src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Instituto_Federal_do_Paran%C3%A1_-_Marca_Vertical_2015.svg/279px-Instituto_Federal_do_Paran%C3%A1_-_Marca_Vertical_2015.svg.png>
   <img width="200" height="150" src=http://www.ufpr.br/portalufpr/wp-content/uploads/2015/11/ufpr_25.jpg>
   <br><br>
-  <p align="center"><b>G-CoV.2: A computational system for geolocation of patients diagnosed with COVID-19
+  <p align="center"><h1>G-CoV.2: A computational system for geolocation of patients diagnosed with COVID-19
   <br>
-  <img width="70" height="35" src=https://biblioteca.pucrs.br/wp-content/uploads/2020/10/DOI.png> https://doi.org/10.1109/TLA.2024.10534305</b>
-  <h1>G-CoV.2: Geolocation CoronaVirus 2</h1>
+  <img width="30" height="30" src=https://galoa.com.br/wp-content/uploads/2022/05/doi-med.png> https://doi.org/10.1109/TLA.2024.10534305</b>
+  <h1>G-CoV.2 System</h1>
   <br>
   A system named G-CoV.2 (Geolocation for CoVid 2) was developed to identify positive patients in a specific city region.
   <p align="center"><img width="200" height="200" src=https://cpdm.ufpr.br/wp-content/uploads/2023/03/g-cov2.png>
-  <p align="center">https://cpdm.ufpr.br/g-cov-2/
+  <p align="center"><b>https://cpdm.ufpr.br/g-cov-2/</b>
 </p>
 <br>
 G-CoV.2 System is a software registered in the Brazilian National Institute of Industrial Property under BR512023000732-3, linked to the Federal University of Paraná, Brazil.<br>
-A. L. d. Prado <i>et al.</i>, "G-CoV.2," BR512023000732-3 Mar. 21, 2023. pp. 20-21. http://revistas.inpi.gov.br/pdf/Programa_de_computador2724.pdf
-<img width="120" height="60" src=https://www.gov.br/inpi/pt-br/copy2_of_nova-home-page/@@govbr.institucional.banner/c1e399f8-ccf9-479b-a302-f80492cbc470/@@images/b9e08c17-bebf-4f2d-9f20-91cdab4b23b8.png>
+A. L. d. Prado <i>et al.</i>, "G-CoV.2," BR512023000732-3 Mar. 21, 2023. pp. 20-21. <b>http://revistas.inpi.gov.br/pdf/Programa_de_computador2724.pdf</b>
+<img width="120" height="50" src=https://www.gov.br/inpi/pt-br/copy2_of_nova-home-page/@@govbr.institucional.banner/c1e399f8-ccf9-479b-a302-f80492cbc470/@@images/b9e08c17-bebf-4f2d-9f20-91cdab4b23b8.png>
 
 # Health Institutions
 The data are from laboratory tests of the patients treated at the Clinical Hospital of the Federal University of Paraná and Curitiba Municipal Laboratory.
