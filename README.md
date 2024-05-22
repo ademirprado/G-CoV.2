@@ -3,21 +3,20 @@
   <br>
   <img width="200" height="150" src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Instituto_Federal_do_Paran%C3%A1_-_Marca_Vertical_2015.svg/279px-Instituto_Federal_do_Paran%C3%A1_-_Marca_Vertical_2015.svg.png>
   <img width="200" height="150" src=http://www.ufpr.br/portalufpr/wp-content/uploads/2015/11/ufpr_25.jpg>
+  <br><br>
+  <p align="center"><b>G-CoV.2: A computational system for geolocation of patients diagnosed with COVID-19
   <br>
-  <hl>
-  <b>G-CoV.2: A computational system for geolocation of patients diagnosed with COVID-19
+  <img width="70" height="35" src=https://biblioteca.pucrs.br/wp-content/uploads/2020/10/DOI.png> https://doi.org/10.1109/TLA.2024.10534305</b>
+  <h1>G-CoV.2: Geolocation CoronaVirus 2</h1>
   <br>
-  DOI: https://doi.org/10.1109/TLA.2024.10534305</b>
-  
-<h1>G-CoV.2: Geolocation CoronaVirus 2</h1>
-<br>
   A system named G-CoV.2 (Geolocation for CoVid 2) was developed to identify positive patients in a specific city region.
-  <img width="150" height="150" src=https://cpdm.ufpr.br/wp-content/uploads/2023/03/g-cov2.png>
-
-https://cpdm.ufpr.br/g-cov-2/</p>
+  <p align="center"><img width="200" height="200" src=https://cpdm.ufpr.br/wp-content/uploads/2023/03/g-cov2.png>
+  <p align="center">https://cpdm.ufpr.br/g-cov-2/
+</p>
 <br>
 G-CoV.2 System is a software registered in the Brazilian National Institute of Industrial Property under BR512023000732-3, linked to the Federal University of Paraná, Brazil.<br>
 A. L. d. Prado <i>et al.</i>, "G-CoV.2," BR512023000732-3 Mar. 21, 2023. pp. 20-21. http://revistas.inpi.gov.br/pdf/Programa_de_computador2724.pdf
+<img width="120" height="60" src=https://www.gov.br/inpi/pt-br/copy2_of_nova-home-page/@@govbr.institucional.banner/c1e399f8-ccf9-479b-a302-f80492cbc470/@@images/b9e08c17-bebf-4f2d-9f20-91cdab4b23b8.png>
 
 # Health Institutions
 The data are from laboratory tests of the patients treated at the Clinical Hospital of the Federal University of Paraná and Curitiba Municipal Laboratory.
