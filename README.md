@@ -15,7 +15,7 @@
 </p>
 <br>
 G-CoV.2 System is a software registered in the Brazilian National Institute of Industrial Property under BR512023000732-3, linked to the Federal University of Paraná, Brazil.<br>
-PRADO, ADEMIR LUIZ DO, VOLANSKI, WALDEMAR ; SIGNORINI, LIANA; VALDAMERI, GLAUCIO; REGO, FABIANE GOMES DE MORAES; PICHETH, GERALDO, <b></b>G-CoV.2</h1>b>, BR512023000732-3 Mar. 21, 2023. pp. 20-21. <b>http://revistas.inpi.gov.br/pdf/Programa_de_computador2724.pdf</b>
+PRADO, ADEMIR LUIZ DO, VOLANSKI, WALDEMAR ; SIGNORINI, LIANA; VALDAMERI, GLAUCIO; REGO, FABIANE GOMES DE MORAES; PICHETH, GERALDO, <b>G-CoV.2</b>, BR512023000732-3 Mar. 21, 2023. pp. 20-21. <b>http://revistas.inpi.gov.br/pdf/Programa_de_computador2724.pdf</b>
 <img width="120" height="50" src=https://www.gov.br/inpi/pt-br/copy2_of_nova-home-page/@@govbr.institucional.banner/c1e399f8-ccf9-479b-a302-f80492cbc470/@@images/b9e08c17-bebf-4f2d-9f20-91cdab4b23b8.png>
 
 # Health Institutions
