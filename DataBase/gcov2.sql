@@ -5358,18 +5358,7 @@ CREATE TABLE `usuario` (
 --
 
 INSERT INTO `usuario` (`id`, `nome`, `login`, `senha`, `email`, `perfil`) VALUES
-(1, 'ADEMIR PRADO', 'PRADO', '$2y$10$DYEYXcVEfezit418sbR9Iu7Kt/WqyST/gU0wd2UpaHLy8N8KjRCZK', 'ademirlp@ufpr.br', 1),
-(2, 'GERALDO PICHETH', 'PICHETH', '$2y$10$G6fjFQrtRuVwuaE0nTs8AetLPCWE9QDkOeF3va7xo1utte1lMjz/y', 'gpicheth@ufpr.br', 3),
-(3, 'WALDEMAR', 'VOLANSKI', '$2y$10$kOlGzmOFVUUhLtA75HpCreqCIHbuiTCF/nZRoseSp1Lbfyrb5nRjC', 'volanski@ufpr.br', 3),
-(4, 'FABIANE GOMES', 'FABIANE', '$2y$10$uf8AlaxEJuEqM3lrp4.5iOIafdhD8FdC91S1fPLka3LSvcRr0Kehy', 'rego@ufpr.br', 3),
-(8, 'LIANA SIGNORINI', 'SIGNORINI', '$2y$10$KbE5p/7r.wcmkLpavAPl/uFmsKR6FgVAGs/qSaTnFAzF7UWAGw4bi', 'lianasig@ufpr.br', 3),
-(9, 'Fundação Araucária', 'FA', '$2y$10$5G3sEGAtQP0/cvooDmMo4uo4J7xoPjIgQnea.aOMVoL123iN99SGe', 'secretaria@fundacaoaraucaria.org.br', 2),
-(10, 'GLAUCIO', 'VALDAMERI', '$2y$10$FYGVO..GPhceeMDzyNrjgeDTPYKYQR08RdqisbKSFkaGsJKzeo6Rm', 'gvaldameri@ufpr.br', 3),
-(11, 'G.P.D.M.', 'GPDM', '$2y$10$bpEpOEHzzjLxKtUFBj4CaOfbTBpn8k1YVK1SNh1UQUcXwZhReXVFe', 'gpdm@ufpr.br', 4),
-(12, 'Liana', 'lsignorini', '3d5cc2201bfb1da366f04419d3e9b857', 'lianasig@gmail.com', 3),
-(13, 'VIVIAN ROTUNO', 'VIVIAN', '$2y$10$yfBeOpd.LsyYqqNyG5PcaONQ0B/9VZ9AJyT/FVHTCIGPqEeLwo6DG', 'vivian.rotuno@ufpr.br', 3),
-(14, 'Onicio Leal', 'onicio', '$2y$10$rwx3IHcLjmWJvB1oGgvUy.mrSTpuRXtCBH4Wn5FA4y56aVH2AfPsu', 'onicio@gmail.com', 3),
-(15, 'WALTER ', 'walterramalho', '$2y$10$eQho7XrMp/RjorWCClJW.OZv3pfe.OrRwYQZeLwQL.x7TtEzEuZ5S', 'walter.ramalho@gmail.com', 3);
+(1, 'ADEMIR PRADO', 'PRADO', '$2y$10$DYEYXcVEfezit418sbR9Iu7Kt/WqyST/gU0wd2UpaHLy8N8KjRCZK', 'ademirlp@ufpr.br', 1);
 
 --
 -- Índices para tabelas despejadas
