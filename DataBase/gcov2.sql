@@ -5345,20 +5345,7 @@ CREATE TABLE `usuario` (
 --
 
 INSERT INTO `usuario` (`id`, `nome`, `login`, `senha`, `email`, `perfil`) VALUES
-(1, 'ADEMIR PRADO', 'PRADO', '$2y$10$bXMrbnxdbHHrZD34MNifduimAF2X6OHDsj7FRd45Rjng76s28J.Re', 'ademirlp@ufpr.br', 1),
-(2, 'GERALDO PICHETH', 'PICHETH', '$2y$10$gn3iRCnH.xoINWNbCskR9OnkEkcTWR10pCTbgrpU2HsmvBpQHkOn2', 'gpicheth@ufpr.br', 3),
-(3, 'WALDEMAR', 'VOLANSKI', 'b45c0d14fa32428b5465b92a76a66a47', 'volanski@ufpr.br', 3),
-(4, 'FABIANE GOMES', 'FABIANE', 'b45c0d14fa32428b5465b92a76a66a47', 'rego@ufpr.br', 3),
-(8, 'LIANA SIGNORINI', 'SIGNORINI', 'b45c0d14fa32428b5465b92a76a66a47', 'lianasig@ufpr.br', 3),
-(9, 'Fundação Araucária', 'FA', '5fd3460701f06b925c54a6a45ef57828', 'secretaria@fundacaoaraucaria.org.br', 2),
-(10, 'GLAUCIO', 'VALDAMERI', 'b45c0d14fa32428b5465b92a76a66a47', 'gvaldameri@ufpr.br', 3),
-(11, 'G.P.D.M.', 'GPDM', '0b0c5f9941837ad6c14efbf934e0ef8f', 'gpdm@ufpr.br', 4),
-(12, 'LIANA', 'LIANA', 'aaed4fbfc8d2bec00ce1b4c7002ecd81', 'lianasig@gmail.com', 3),
-(59, 'Brazilian Archives', 'BABT', '4e5ad9b46fb9f5a05966452512d36e95', 'contato@babt.com.br', 4),
-(60, 'Medical Informatics', 'IJMI', '$2y$10$wEM6mFt6Czaer33PE5GNWecNTEXkTggf6MAKESQ8iR8u4Ee94ls.y', 'ijmi@ijmi.org', 4),
-(61, 'Endocrinology/Metabolics', 'AEM', 'e8298f6e27f28272e6354f13446ab147', 'aem@aem.org', 4),
-(62, 'Vivian Valdameri', 'VIVIAN', '$2y$10$zuF5gGG91v3KKSbPHS8UCOJ9a0.scj0yuvAbNhTZx79xIeHAfrbhG', 'vivian.rotuno@ufpr.br', 3),
-(64, 'Larissa Prado', 'LARISSA', '$2y$10$ihPW492QLAEeRnv0k55ETu88OyU08uxKH23lbgRAgIgoQU49gm9ui', 'larissa@ufpr.br', 3);
+(1, 'ADEMIR PRADO', 'PRADO', '$2y$10$bXMrbnxdbHHrZD34MNifduimAF2X6OHDsj7FRd45Rjng76s28J.Re', 'ademirlp@ufpr.br', 1);
 
 --
 -- Índices para tabelas despejadas
