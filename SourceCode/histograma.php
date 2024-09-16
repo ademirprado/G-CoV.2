@@ -48,10 +48,10 @@ include 'conexao.php';
 		  google.charts.setOnLoadCallback(drawChart);
 		  function drawChart() {
 			var data = google.visualization.arrayToDataTable([
-				['Paciente', 'Age'],
-				<?php $result = $conn->query("SELECT paciente, idade FROM exames");
+				['OS', 'Age'],
+				<?php $result = $conn->query("SELECT OS, idade FROM exames");
 					while($aux_query = $result->fetch_assoc()) { ?>
-						['<?php echo $aux_query["paciente"]; ?>', <?php echo $aux_query["idade"].'],';				
+						['<?php echo $aux_query["OS"]; ?>', <?php echo $aux_query["idade"].'],';				
 					} ?>		
 			]);
 

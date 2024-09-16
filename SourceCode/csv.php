@@ -33,8 +33,8 @@ if (@$_SESSION['UsuarioNivel'] != 0)
 	// Fetch records from database 
 	//$query = $conn->query("SELECT * FROM exames ORDER BY data,instituicao ASC");
 	//$query = $conn->query("SELECT t1.INSTITUICAO, t1.TIPO, t1.UNIDADE, t1.DATA, t1.SEXO, t1.RACA, t1.IDADE, t2.CEP, t2.ESTADO, t2.MUNICIPIO, t2.BAIRRO, t1.EXAME, t1.RESULTADO FROM exames t1, enderecos t2 where t1.cep=t2.cep ORDER BY t1.instituicao, t1.tipo, t1.unidade, T1.DATA ASC");
-$query = $conn->query("SELECT t1.INSTITUICAO, t1.TIPO, t1.UNIDADE, t1.DATA, t1.SEXO, t1.RACA, t1.IDADE, t1.CEP, t1.ESTADO, t1.CIDADE, t1.BAIRRO, t1.EXAME, t1.RESULTADO FROM exames t1 ORDER BY t1.instituicao, t1.tipo, t1.unidade, T1.DATA ASC");
-	 
+//$query = $conn->query("SELECT t1.INSTITUICAO, t1.TIPO, t1.UNIDADE, t1.DATA, t1.SEXO, t1.RACA, t1.IDADE, t1.CEP, t1.ESTADO, t1.CIDADE, t1.BAIRRO, t1.EXAME, t1.RESULTADO FROM exames t1 ORDER BY t1.instituicao, t1.tipo, t1.unidade, T1.DATA ASC");
+	$query = $conn->query("SELECT t1.INSTITUICAO, t1.TIPO, t1.UNIDADE, t1.DATA, t1.SEXO, t1.RACA, t1.IDADE, t1.CEP, t2.ESTADO, t2.municipio, t2.BAIRRO, t1.EXAME, t1.RESULTADO FROM exames t1 LEFT JOIN enderecos t2 ON t1.cep=t2.cep ORDER BY t1.instituicao, t1.tipo, t1.unidade, T1.DATA ASC;");
 	if($query->num_rows > 0)
 	{ 
 		$delimiter = ","; 
@@ -51,8 +51,8 @@ $query = $conn->query("SELECT t1.INSTITUICAO, t1.TIPO, t1.UNIDADE, t1.DATA, t1.S
 		while($row = $query->fetch_assoc())
 		{ 
 			//$status = ($row['status'] == 1)?'Active':'Inactive'; 
-			//$lineData = array($row['INSTITUICAO'], $row['TIPO'], $row['UNIDADE'], $row['SEXO'], $row['RACA'], $row['IDADE'], $row['CIDADE'], $row['ESTADO'], $row['EXAME'], $row['RESULTADO']); 
-			$lineData = array($row['INSTITUICAO'], $row['TIPO'], $row['UNIDADE'], $row['DATA'], $row['SEXO'], $row['RACA'], $row['IDADE'], $row['CEP'], $row['ESTADO'], $row['CIDADE'], $row['BAIRRO'], $row['EXAME'], $row['RESULTADO']); 				
+			//$lineData = array($row['INSTITUICAO'], $row['TIPO'], $row['UNIDADE'], $row['SEXO'], $row['RACA'], $row['IDADE'], $row['MUNICIPIO'], $row['ESTADO'], $row['EXAME'], $row['RESULTADO']); 
+			$lineData = array($row['INSTITUICAO'], $row['TIPO'], $row['UNIDADE'], $row['DATA'], $row['SEXO'], $row['RACA'], $row['IDADE'], $row['CEP'], $row['ESTADO'], $row['municipio'], $row['BAIRRO'], $row['EXAME'], $row['RESULTADO']); 				
 			fputcsv($f, $lineData, $delimiter); 
 		} 
 		 
