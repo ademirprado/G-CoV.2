@@ -1,22 +1,26 @@
 <p align="center">
   <img width="460" height="120" src=https://latamt.ieeer9.org/public/journals/1/submission_8872_12431_coverImage_en_US.png>
   <br>
-  <img width="200" height="150" src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Instituto_Federal_do_Paran%C3%A1_-_Marca_Vertical_2015.svg/279px-Instituto_Federal_do_Paran%C3%A1_-_Marca_Vertical_2015.svg.png>
-  <img width="200" height="150" src=http://www.ufpr.br/portalufpr/wp-content/uploads/2015/11/ufpr_25.jpg>
-  <br><br>
   <p align="center"><h1>G-CoV.2: A computational system for geolocation of patients diagnosed with COVID-19
   <br>
   <img width="30" height="30" src=https://galoa.com.br/wp-content/uploads/2022/05/doi-med.png> https://doi.org/10.1109/TLA.2024.10534305</b>
-  <h1>G-CoV.2 System</h1>
+  <br><br>
+    <p align="center">
+  <img width="200" height="150" src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Instituto_Federal_do_Paran%C3%A1_-_Marca_Vertical_2015.svg/279px-Instituto_Federal_do_Paran%C3%A1_-_Marca_Vertical_2015.svg.png>
+  <img width="200" height="150" src=http://www.ufpr.br/portalufpr/wp-content/uploads/2015/11/ufpr_25.jpg>
   <br>
+  <h1>G-CoV.2 System</h1>
+G-CoV.2 System is a software registered in the Brazilian National Institute of Industrial Property under BR512023000732-3, linked to the Federal University of Paraná, Brazil.<br>
+PRADO, ADEMIR LUIZ DO, VOLANSKI, WALDEMAR ; SIGNORINI, LIANA; VALDAMERI, GLAUCIO; REGO, FABIANE GOMES DE MORAES; PICHETH, GERALDO, <b>G-CoV.2</b>, BR512023000732-3 Mar. 21, 2023. pp. 20-21. <b>http://revistas.inpi.gov.br/pdf/Programa_de_computador2724.pdf</b><br>
+<img width="200" height="70" src=https://github.com/user-attachments/assets/1504a00a-cddb-4071-915e-5f47615a29ff>
+    <br>
   A system named G-CoV.2 (Geolocation for CoVid 2) was developed to identify positive patients in a specific city region.
   <p align="center"><img width="200" height="200" src=https://cpdm.ufpr.br/wp-content/uploads/2023/03/g-cov2.png>
   <p align="center"><b>https://cpdm.ufpr.br/g-cov-2/</b>
 </p>
 <br>
-G-CoV.2 System is a software registered in the Brazilian National Institute of Industrial Property under BR512023000732-3, linked to the Federal University of Paraná, Brazil.<br>
-PRADO, ADEMIR LUIZ DO, VOLANSKI, WALDEMAR ; SIGNORINI, LIANA; VALDAMERI, GLAUCIO; REGO, FABIANE GOMES DE MORAES; PICHETH, GERALDO, <b>G-CoV.2</b>, BR512023000732-3 Mar. 21, 2023. pp. 20-21. <b>http://revistas.inpi.gov.br/pdf/Programa_de_computador2724.pdf</b>
 
+    
 # Health Institutions
 The data are from laboratory tests of the patients treated at the Clinical Hospital of the Federal University of Paraná and Curitiba Municipal Laboratory.
 
