@@ -6,7 +6,7 @@
   <img width="30" height="30" src=https://galoa.com.br/wp-content/uploads/2022/05/doi-med.png> https://doi.org/10.1109/TLA.2024.10534305</b>
   <br><br>
     <p align="center">
-  <img width="200" height="150" src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Instituto_Federal_do_Paran%C3%A1_-_Marca_Vertical_2015.svg/279px-Instituto_Federal_do_Paran%C3%A1_-_Marca_Vertical_2015.svg.png>
+  <img width="170" height="125" src=SourceCode/imagens/IFPR.svg>
   <img width="200" height="150" src=http://www.ufpr.br/portalufpr/wp-content/uploads/2015/11/ufpr_25.jpg>
   <br>
   <h1>G-CoV.2 System</h1>
